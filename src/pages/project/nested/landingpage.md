@@ -3,7 +3,7 @@ layout: ../../../layouts/project.astro
 title: Landing page for a business
 client: Self
 publishDate: 2021-11-14 00:00:00
-img: ../../../../assets/landingpage.png
+img: "https://i.imgur.com/tRLcwQs.png"
 description:
 tags:
   - React
