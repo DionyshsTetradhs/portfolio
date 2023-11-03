@@ -1,0 +1,60 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Footer from '../components/Footer/index.jsx';
+import Nav from '../components/Nav/index.jsx';
+---
+
+<html lang="en">
+
+<head>
+	<MainHead title="About" description="About me" />
+	<style lang="scss">
+		.heroImg {
+			height: 30rem;
+			width: auto;
+			background-repeat: no-repeat;
+			background-size: contain;
+			background-position: center;
+			overflow: hidden;
+			background-image: url("../../public/assets/profile.png");
+		}
+
+		.bio {
+			font-size: var(--f-u1);
+			line-height: 2;
+		}
+	</style>
+</head>
+
+<body>
+	<Nav />
+	<div class="wrapper">
+		<h1>About me</h1>
+		<div class="heroImg">
+		</div>
+		<div class="bio wrapper wrapper__readable mt8">
+			<p>
+				Hi!
+			</p>
+			<p>Thanks for checking out my website. My name is Dennis and i am from a small island named Zakynthos in Greece.
+			</p>
+			<p>
+				Being a massive technology nerd, i was into computers from a very young age.
+				So when we started doing programming in school, it was easily my favourite subject.
+				I really love problem solving, what can i say😁
+			</p>
+			<p>
+				So i decided to studie Computer Science at Ionian University in Corfu. Where i learned a lot of different programming languages, programming theories, technologies and much more.
+			</p>
+			<p>
+				So after doing my internship at a company for web development, i started aiming to become a web developer myself.
+			</p>
+			<p>
+				So here I am, finally feeling confident enough in my skills to look for a job. Wish me luck! 😊
+			</p>
+		</div>
+	</div>
+	<Footer />
+</body>
+
+</html>
