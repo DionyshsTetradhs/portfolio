@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && scp -r ./dist/*",
+    "build": "turbo run build --filter=astro --filter=create-astro --filter=\"@astrojs/*\" --filter=\"@benchmark/*\"",
     "preview": "astro preview"
   },
   "devDependencies": {
