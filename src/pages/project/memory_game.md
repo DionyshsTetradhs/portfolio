@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/project.astro
+layout: ../../layouts/project.astro
 title: Memory Game
 client: Self
 publishDate: 2024-09-16 00:00:00

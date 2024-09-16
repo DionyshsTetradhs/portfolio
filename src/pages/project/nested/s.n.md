@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/project.astro
+layout: ../../../layouts/project.astro
 title: NextJS network app
 client: Self
 publishDate: 2022-06-16 00:00:00
