@@ -4,14 +4,14 @@ title: This website!
 client: Self
 publishDate: 2023-11-02 00:00:00
 img: ../../../../assets/personal.png
-description: 
+description:
 tags:
   - Astro
 ---
 
-*You can find the code [**here**](https://github.com/Dion)*   
+_You can find the code [**here**](https://github.com/dtetradis/portfolio)_
 
-Another static website built with Astro this time!   
+Another static website built with Astro this time!
 
 Saw that a lot of people were using Astro for their portfolio web-pages so gave it a try.
 I started with a template and changed things around.

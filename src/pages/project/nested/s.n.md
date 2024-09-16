@@ -13,7 +13,7 @@ tags:
   - PrismaDB
 ---
 
-_You can find the code [**here**](https://github.com/DionyshsTetradhs/s.n.)_
+_You can find the code [**here**](https://github.com/dtetradis/s.n.)_
 
 Initially, I conceived the idea of creating a more user-friendly way to engage with social media. Inspired by my experience with Arch Linux and window managers, I aimed to develop a terminal-based interactive network or chat application.
 
