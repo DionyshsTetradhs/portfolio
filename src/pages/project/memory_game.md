@@ -3,8 +3,9 @@ layout: ../../../layouts/project.astro
 title: Memory Game
 client: Self
 publishDate: 2024-09-16 00:00:00
-img: ../../../assets/memory_game.png
-description:
+img: ../../../assets/s.n.png
+description: |
+  Description
 tags:
   - React
   - Typescript
@@ -14,7 +15,7 @@ tags:
   - MongoDB
 ---
 
-_You can find the code here[**frontend**](https://github.com/dtetradis/memory_game_frontend) [**backend**](https://github.com/dtetradis/memory_game_backend)_
+_You can find the code here[**frontend**](https://github.com/dtetradis/memory_game_frontend)_
 
 One day, I found myself searching for an alternative to the basic iOS alarm in hopes of finding something that would help me wake up faster and feel more energized. I decided to try out Alarmy (which I highly recommend, though I eventually returned to the iOS alarm).
 
