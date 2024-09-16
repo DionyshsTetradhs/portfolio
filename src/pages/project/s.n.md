@@ -3,7 +3,7 @@ layout: ../../layouts/project.astro
 title: NextJS network app
 client: Self
 publishDate: 2022-06-16 00:00:00
-img: ../../../../assets/s.n.png
+img: ../../../assets/s.n.png
 description: |
   Tried my hand at NextJS. Was pretty fun!
 tags:
