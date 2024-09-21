@@ -15,8 +15,8 @@ tags:
   - MongoDB
 ---
 
-_Live version[**here**](https://memory-game-xyz.vercel.app/)_
-_You can find the code here[**frontend**](https://github.com/dtetradis/memory_game_frontend) [**backend**](https://github.com/dtetradis/memory_game_backend)_
+_Live version [**here**](https://memory-game-xyz.vercel.app/)_
+_You can find the code here [**frontend**](https://github.com/dtetradis/memory_game_frontend) - [**backend**](https://github.com/dtetradis/memory_game_backend)_
 
 One day, I found myself searching for an alternative to the basic iOS alarm in hopes of finding something that would help me wake up faster and feel more energized. I decided to try out Alarmy (which I highly recommend, though I eventually returned to the iOS alarm).
 
