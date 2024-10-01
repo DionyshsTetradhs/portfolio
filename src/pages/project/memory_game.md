@@ -20,6 +20,8 @@ _You can find the code here [**frontend**](https://github.com/dtetradis/memory_g
 
 One day, I found myself searching for an alternative to the basic iOS alarm in hopes of finding something that would help me wake up faster and feel more energized. I decided to try out Alarmy (which I highly recommend, though I eventually returned to the iOS alarm).
 
-One of the features that caught my attention was a memory game designed to help users wake up. I thought it would be a great opportunity to practice and further develop my web development skills by creating something similar.
+The feature that caught my eye was a memory game designed to help users wake up. I thought it would be a great opportunity to practice and further develop my web development skills by creating something similar.
 
 With a solid foundation in web development, I set out to build my own version of this memory game.
+
+**The backend is in a docker container on a personal server and the front end is hosted on vercel**
